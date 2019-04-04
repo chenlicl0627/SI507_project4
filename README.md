@@ -9,7 +9,7 @@ You need to install Chrome and [ChromeDriver](https://sites.google.com/a/chromiu
 
 Then, activate virtual environment and use `pip install -r requirements.txt` to install dependencies.
 
-Finally, use `python project4.py` to run the code.
+Finally, use `python SI507_project4.py` to run the code.
 
 ### Output
 
